@@ -2,7 +2,7 @@
 
 ## Project Name
 
-To be added
+LEARNIFY AI – A Multilingual Personal Video AI Tutor for Students
 
 ## Team Members
 
