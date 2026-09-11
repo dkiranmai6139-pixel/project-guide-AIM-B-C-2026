@@ -2,7 +2,8 @@
 
 ## Project Name
 
-To be added
+Offline Multimodal Retrieval-Augmented Generation (RAG)
+Voice & Visual AI Assistant
 
 ## Team Members
 
